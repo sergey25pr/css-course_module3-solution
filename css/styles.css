@@ -154,7 +154,9 @@ body {
     padding-top: 10px;
     font-size: 5vw; /* 1vw = 1% of viewport width */
   }
-
+  .navbar-toggle {
+    margin-right: 30px;
+  }
   #collapsable-nav a { /* Collapsed nav menu text */
     font-size: 1.2em;
   }
